@@ -1,2 +1,2 @@
-# M2-Embedded_Projectgoal
+# M2-Embedded_CarSeatHeatControlSystem
 temporary file name
