@@ -3,5 +3,6 @@ The heat control system is basically used to control the temperature of a car se
 
 ![im209-350x263](https://user-images.githubusercontent.com/94216191/144197540-5a66edc4-e76a-4021-89c8-9a1d1a04adab.jpg)
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6a72ea0a5bf2466989611a6d7b2315f8)](https://www.codacy.com/gh/deepakraj11/M2-Embedded_CarSeatHeatControlSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=deepakraj11/M2-Embedded_CarSeatHeatControlSystem&amp;utm_campaign=Badge_Grade)| ![Code inspector CodeQuality](https://api.codiga.io/project/30227/score/svg)
-||![Code inspector CodeQuality](https://api.codiga.io/project/30227/status/svg)
+| cppcheck | Codacy | linux |
+|:-------:|:-------:|:------:|
+|   [![Cppcheck-actions](https://github.com/deepakraj11/M2-Embedded_CarSeatHeatControlSystem/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/deepakraj11/M2-Embedded_CarSeatHeatControlSystem/actions/workflows/c-cpp.yml)|![Codacy Badge](https://api.codiga.io/project/30227/score/svg) ![Code Grade](https://api.codiga.io/project/30227/status/svg) |
