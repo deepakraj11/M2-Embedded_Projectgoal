@@ -4,6 +4,14 @@ This project aims to explain the task of keeping to control the temprature of th
 
 ## RESEARCH
 OBJECTIVES: The aim of the project is to design a CAR SEAT HEAT CONTROL SYSTEM, Climate control is a more sophisticated form of air-conditioning, which allows the temperature of a cars Seats to be accurately controlled. Users can set the required temperature and the system automatically adjusts the speed and amount of cold air introduced into the Seats & cabin
+## REQUIREMENTS
+HIGH LEVEL REQUIREMENT
+| ID | Description | Status |
+|:-------:|:-------:|:------:|
+|HLR1|When the two switches are closed, the first LED glows indicating the actuation of the system and the heater.|Implemented|
+|HLR2  |Next the analog input from the temperature sensor is received and digitized.   | Implemented |
+|HLR3 |The hard disk must be 4 GB . | Implemented  |
+|HLR4|The web browser must be Microsoft Internet Explorer with a resolution of at least 800 * 600.|Implemented |
 
 ## 4W's and 1'H
 WHO:
@@ -23,12 +31,13 @@ HOW:
 •This project takes in all the input values and yields out the management parameters.
 
 ## FOLDER AND STRUCTURE
-Plugin	README
-1_REQUIREMENT	Document detailing requirements
-2_DESIGN	Structural and Behavioural UM
-3_IMPLEMENTATION	All the code is written here
-4_TestPlanAndOutput	Documents with test plans and outputs
-5_REPORT	Generated report
+| Plugin | README | 
+|:-------:|:-------:|
+1_REQUIREMENT|	Document detailing requirements
+2_DESIGN |Structural and Behavioural UM
+3_IMPLEMENTATION	|All the code is written here
+4_TestPlanAndOutput	|Documents with test plans and outputs
+5_REPORT|	Generated report
 
 ## SWOT ANALYSIS
 STRENGTH:
